@@ -3,8 +3,10 @@
 ### 📜 Descrição:
 
 <p align="justify">
-    Objetivo principal: treinar o Básico do React.
+    Objetivo principal: treinar o Básico do React. 
+    <br>
     Primeiro objetivo: Criar um componente e estilizar ele para deixar ele colorido e com letras maiúsculas.
+    <br>
     Segundo objetivo: Criar um componente tipo button para que ao clicar apareça uma mensagem no meu caso troquei a mensagem para "Você está baixando o CV"
 </p>
 
