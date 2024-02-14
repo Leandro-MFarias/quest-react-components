@@ -1,3 +1,5 @@
+import React from "react"
+
 const Button = ({label}) => {
     const baixandoCV = () => {
         alert('Você está baixando o CV')
